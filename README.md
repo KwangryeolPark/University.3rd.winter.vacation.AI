@@ -5,8 +5,8 @@
 
 
 # git과 github 사용 방법
-* 처음에 해야하는 것 :
-* 매번 해야하는 것 :
+* 처음에 해야하는 것  : https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/master/git_github/%EC%B2%98%EC%9D%8C%EC%97%90%20%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%83/Process.pptx    (다운로드 필요)
+* 매번 해야하는 것    :
 <br>
 <br>
 
