@@ -23,7 +23,7 @@
 # 강의 자료
 ## 선형대수학(Linear Algebra)
 * 강의 영상 : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1     
-* 강의 자료 : 
+* 강의 자료 : https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/KwangryeolPark/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%20%EC%9E%90%EB%A3%8C/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C.pdf
      
      
 ## 확률론(Probability)
