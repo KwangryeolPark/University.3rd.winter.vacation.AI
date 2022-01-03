@@ -1,7 +1,7 @@
 # University.3rd.winter.vacation.AI
 인공지능 스터디입니다. 방학동안 진행되며, 선형대수학, 확률론 그리고 가능하면 더 나아가 ML(Machine Learning)을 다룰 예정입니다.     
 
-
+<br><br/>
 
 
 
