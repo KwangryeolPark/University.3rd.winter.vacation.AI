@@ -24,6 +24,10 @@
 ## 선형대수학(Linear Algebra)
 * 강의 영상 : https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1     
 * 강의 자료 : 
-확률론(Probability)        : https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+     
+     
+## 확률론(Probability)
+* 강의 영상 : https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+* 강의 자료 : 
 
 
