@@ -28,6 +28,6 @@
      
 ## 확률론(Probability)
 * 강의 영상 : https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
-* 강의 자료 : 
+* 강의 자료 : https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/KwangryeolPark/%ED%99%95%EB%A5%A0%EB%A1%A0%20%EC%9E%90%EB%A3%8C/%EC%B0%B8%EA%B3%A0%20%EC%9E%90%EB%A3%8C.pdf
 
 
