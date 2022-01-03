@@ -5,8 +5,9 @@
 
 
 # git과 github 사용 방법
-* 처음에 해야하는 것 :
-* 무언가 수정할 때마다 해야하는 것 :
+* 무언가 수정할 때마다 해야하는 것 : https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/master/git_github/%EC%B2%98%EC%9D%8C%EC%97%90%20%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%83/Progress.pptx (다운로드
+* 처음에 해야하는 것 : https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/master/git_github/%EB%AC%B4%EC%96%B8%EA%B0%80%20%EC%88%98%EC%A0%95%ED%95%A0%20%EB%95%8C%EB%A7%88%EB%8B%A4%20%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%83/Progress.pptx (다운로드)
+
 <br>
 <br>
 
