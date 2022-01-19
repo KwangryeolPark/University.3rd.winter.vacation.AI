@@ -10,7 +10,7 @@
 
 <br>
 <br>
-  
+
 # 사용 방법
 한 주간 공부한 내용은 weekly study 파일 -> <해당 주> 에 저장하시면 됩니다.
 
@@ -36,17 +36,17 @@
 </pre>
 <br>
 <br>
-  
+
 # 강의 자료
 ## 선형대수학(Linear Algebra)
-* 강의 영상 : <a href="https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1">;Youtube</a>     
+* 강의 영상 : <a href="https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1">Youtube</a>     
 * 강의 자료 : <a href="https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/KwangryeolPark/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%20%EC%9E%90%EB%A3%8C/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C.pdf">PPT</a>     
 <br>
 
 ## 확률론(Probability)
-* 강의 영상 : <a href="https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">;Youtube</a>
+* 강의 영상 : <a href="https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">Youtube</a>
 * 참고 자료 : <a href="https://github.com/KwangryeolPark/University.3rd.winter.vacation.AI/blob/KwangryeolPark/%ED%99%95%EB%A5%A0%EB%A1%A0%20%EC%9E%90%EB%A3%8C/%EC%B0%B8%EA%B3%A0%20%EC%9E%90%EB%A3%8C.pdf">PPT</a>
 <br>
-  
+
 ## Machine Learning (ML)
 * 참고 자료 : <a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap">Github</a>
